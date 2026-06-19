@@ -1,7 +1,3 @@
-numpy==1.26.4
-pandas==2.2.2
+pandas
 streamlit
 plotly
-pdfplumber
-pypdf
-requests
